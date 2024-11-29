@@ -2,7 +2,7 @@
 
 A fun and interactive 3D block-stacking game built with `Three.js`, `GSAP`, and vanilla JavaScript. The goal is to stack blocks as accurately as possible to score points. The game features responsive design and smooth animations for an engaging experience.
 
-![Game Screenshot](./images/Ekran%20Resmi%202024-11-29%2011.36.19%20(2).png)
+![Game Screenshot](./images/game-ss)
 
 ## Features
 
